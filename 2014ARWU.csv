@@ -1,0 +1,501 @@
+rank_arwu;title;flag;regional;score_arwu;score_alumni
+1;Harvard University;;1;100;100
+2;Stanford University;;2;72.1;41.8
+3;Massachusetts Institute of Technology (MIT);;3;70.5;68.4
+4;University of California, Berkeley (UCB);;4;70.1;66.8
+5;University of Cambridge;;1;69.2;79.1
+6;Princeton University;;5;60.7;52.1
+7;California Institute of Technology;;6;60.5;48.5
+8;Columbia University;;7;59.6;65.1
+9;University of Chicago;;8;57.4;61.4
+9;University of Oxford;;2;57.4;51
+11;Yale University;;9;55.2;48.8
+12;University of California, Los Angeles (UCLA);;10;51.9;30.2
+13;Cornell University;;11;50.6;37.6
+14;University of California, San Diego (UCSD);;12;49.3;19.7
+15;University of Washington;;13;48.1;21.7
+16;University of Pennsylvania;;14;47.1;32.4
+17;The Johns Hopkins University;;15;47;38.7
+18;University of California, San Francisco;;16;45.2;0
+19;Swiss Federal Institute of Technology Zurich;;1;43.9;30.2
+20;University College London;;3;43.3;28.8
+21;The University of Tokyo;;1;43.2;31.6
+22;The Imperial College of Science; Technology and Medicine;;4;42.3;14.9
+22;University of Michigan;;17;42.3;35.3
+24;University of Toronto;;1;41.8;20.4
+24;University of Wisconsin - Madison;;18;41.8;31.6
+26;Kyoto University;;2;39.9;30.2
+27;New York University (NYU);;19;39.6;28.8
+28;Northwestern University;;20;39.4;15.8
+28;University of Illinois at Urbana-Champaign;;20;39.4;30.7
+30;University of Minnesota; Twin Cities;;22;39.3;30.2
+31;Duke University;;23;38.4;15.8
+32;Washington University in St. Louis;;24;37.8;19
+33;Rockefeller University;;25;37.6;17.5
+34;University of Colorado at Boulder;;26;37.2;12.9
+35;Pierre and Marie Curie University - Paris 6;;1;35.4;34.5
+36;University of North Carolina at Chapel Hill;;27;35.2;9.1
+37;University of British Columbia;;2;35.1;15.8
+38;The University of Manchester;;5;34.7;19
+39;University of Texas at Austin;;28;34.5;16.6
+39;University of Copenhagen;;1;34.5;22.3
+41;University of California, Santa Barbara;;29;34.3;14.9
+42;Université Paris-Sud 11;;2;34.2;31.1
+43;University of Maryland, College Park; College Park;;30;32.7;19.7
+44;The University of Melbourne;;1;32.6;17.5
+45;The University of Edinburgh;;6;32.5;21.1
+45;The University of Texas Southwestern Medical Center at Dallas;;31;32.5;19
+47;Karolinska Institute;;1;31.9;22.9
+47;University of California, Irvine;;32;31.9;0
+49;Heidelberg University;;1;31.1;13.9
+49;Ludwig-Maximilians-Universität München;;1;31.1;26.3
+51;University of Southern California;;33;31;0
+52;Rutgers; The State University of New Jersey - New Brunswick;;34;30.9;10.5
+53;Technical University Munich;;3;30.7;35.7
+54;Vanderbilt University;;35;30.6;15.8
+55;University of California, Davis;;36;30.4;0
+56;University of Zurich (UZH);;2;30.3;5.3
+57;Utrecht University;;1;30.2;23.5
+58;Pennsylvania State University - University Park;;37;30;10.5
+59;King's College London (KCL);;7;29.7;21.7
+60;Purdue University - West Lafayette;;38;29.5;13.9
+60;Uppsala University;;2;29.5;18.2
+62;Carnegie Mellon University;;39;29.4;32.4
+63;University of Bristol;;8;28.9;7.4
+64;The Ohio State University - Columbus;;40;28.7;12.9
+65;University of Pittsburgh-Pittsburgh Campus;;41;28.6;19
+66;University of Geneva;;3;28.5;22.3
+67;Ecole Normale Superieure - Paris;;3;28.3;50.2
+67;McGill University;;3;28.3;31.1
+69;University of Oslo;;1;28.1;18.2
+70;Ghent University;;1;28;5.3
+70;The Hebrew University of Jerusalem;;1;28;32.9
+72;Boston University;;42;27.8;11.8
+73;University of Helsinki;;1;27.5;12.9
+74;Aarhus University;;2;27.4;11.8
+74;Brown University;;43;27.4;14.9
+74;The Australian National University;;2;27.4;13.9
+77;Leiden University;;2;27.3;18.2
+78;Osaka University;;3;26.8;9.1
+78;Stockholm University;;3;26.8;24.7
+78;Technion - Israel Institute of Technology;;2;26.8;24.1
+78;University of Florida;;44;26.8;17.5
+82;Rice University;;45;26.7;16.6
+82;University of Groningen;;3;26.7;0
+84;Moscow State University;;1;26.1;42.4
+85;The University of Queensland;;3;25.7;12.9
+86;University of Arizona;;46;25.4;14.9
+87;University of Utah;;47;25;0
+88;Arizona State University;;48;24.9;0
+88;The University of Western Australia;;4;24.9;13.9
+90;McMaster University;;4;24.8;12.9
+90;University of Basel;;4;24.8;19.7
+90;University of Rochester;;49;24.8;25.2
+93;University of California, Santa Cruz;;50;24.7;0
+94;University of Bonn;;4;24.6;15.8
+95;University of Strasbourg;;4;24.5;25.8
+96;KU Leuven;;2;24.2;0
+96;Swiss Federal Institute of Technology Lausanne;;5;24.2;0
+96;Texas A & M University;;51;24.2;0
+99;Georgia Institute of Technology;;52;24.1;12.9
+100;VU University Amsterdam;;4;24;0
+101;Aix Marseille University;;5-7;13.9;
+101;Baylor College of Medicine;;53-64;0;
+101;Cardiff University;;9-17;0;
+101;Case Western Reserve University;;53-64;31.1;
+101;Catholic University of Louvain;;3-4;10.5;
+101;Emory University;;53-64;0;
+101;Hokkaido University;;4-6;11.8;
+101;Indiana University Bloomington;;53-64;10.5;
+101;Joseph Fourier University - Grenoble 1;;5-7;0;
+101;London School of Economics and Political Science (LSE);;9-17;20.4;
+101;Lund University;;4;21.7;
+101;Mayo Medical School;;53-64;0;
+101;Michigan State University;;53-64;9.1;
+101;Monash University;;5-7;0;
+101;Nagoya University;;4-6;22.3;
+101;National Taiwan University (NTU);;1;11.8;
+101;National University of Singapore (NUS);;1;0;
+101;Peking University;;1-3;0;
+101;Radboud University Nijmegen;;5-7;16.6;
+101;Seoul National University;;1;0;
+101;Shanghai Jiao Tong University;;1-3;0;
+101;Technical University of Denmark;;3;5.3;
+101;University of Glasgow;;9-17;7.4;
+101;The University of New South Wales;;5-7;0;
+101;The University of Sheffield;;9-17;18.2;
+101;The University of Texas M. D. Anderson Cancer Center;;53-64;0;
+101;Tohoku University;;4-6;14.9;
+101;Tsinghua University;;1-3;10.5;
+101;Tufts University;;53-64;19;
+101;University Libre Bruxelles;;3-4;20.4;
+101;University of Alberta;;5-6;11.8;
+101;University of Amsterdam;;5-7;5.3;
+101;University of Birmingham;;9-17;19;
+101;University of California, Riverside;;53-64;12.9;
+101;University of Frankfurt;;5-7;31.1;
+101;University of Freiburg;;5-7;19;
+101;University of Goettingen;;5-7;31.6;
+101;University of Leeds;;9-17;17.5;
+101;University of Liverpool;;9-17;17.5;
+101;University of Massachusetts Amherst;;53-64;13.9;
+101;University of Massachusetts Medical School - Worcester;;53-64;0;
+101;University of Montreal;;5-6;11.8;
+101;University of Nottingham;;9-17;11.8;
+101;University of Sao Paulo;;1;0;
+101;University of Southampton;;9-17;0;
+101;The University of Sydney;;5-7;14.9;
+101;University of Virginia;;53-64;0;
+101;University of Wageningen;;5-7;0;
+101;Université Paris Diderot - Paris 7;;5-7;11.8;
+101;Weizmann Institute of Science;;3;18.2;
+151;Erasmus University;;8;0;
+151;Fudan University;;4-6;0;
+151;George Mason University;;65-77;0;
+151;Icahn School of Medicine at Mount Sinai;;65-77;0;
+151;Iowa State University;;65-77;0;
+151;King Abdulaziz University;;1-2;0;
+151;King Saud University;;1-2;0;
+151;Kyushu University;;7-8;0;
+151;Nanyang Technological University, Singapore (NTU);;2;0;
+151;North Carolina State University - Raleigh;;65-77;0;
+151;Oregon Health and Science University;;65-77;0;
+151;Oregon State University;;65-77;10.5;
+151;Tel Aviv University;;4;0;
+151;The Chinese University of Hong Kong;;1-2;0;
+151;The University of Adelaide;;8;14.9;
+151;The University of Calgary;;7;0;
+151;The University of Georgia;;65-77;0;
+151;The University of Hong Kong;;1-2;0;
+151;Tokyo Institute of Technology;;7-8;12.9;
+151;Trinity College Dublin;;1;10.5;
+151;University of Barcelona;;1;0;
+151;University of Bern;;6-7;12.9;
+151;University of Bologna;;1-6;0;
+151;University of Buenos Aires;;1;14.9;
+151;University of Delaware;;65-77;10.5;
+151;University of East Anglia;;18-20;13.9;
+151;University of Gothenburg;;5;0;
+151;University of Hamburg;;8-13;11.8;
+151;University of Hawaii at Mañoa;;65-77;0;
+151;University of Illinois at Chicago;;65-77;0;
+151;University of Iowa;;65-77;0;
+151;University of Kiel;;8-13;10.5;
+151;University of Koeln;;8-13;0;
+151;University of Lausanne;;6-7;0;
+151;University of Miami;;65-77;0;
+151;University of Milan;;1-6;17.5;
+151;University of Muenster;;8-13;19.7;
+151;University of Padua;;1-6;0;
+151;University of Paris Descartes - Paris 5;;8;11.8;
+151;University of Pisa;;1-6;13.9;
+151;University of Roma - La Sapienza;;1-6;11.8;
+151;University of Science and Technology of China;;4-6;0;
+151;University of Sussex;;18-20;0;
+151;University of Tuebingen;;8-13;22.9;
+151;University of Turin;;1-6;15.8;
+151;University of Vienna;;1;13.9;
+151;The University of Warwick;;18-20;0;
+151;University of Wuerzburg;;8-13;19.7;
+151;Virginia Commonwealth University;;65-77;10.5;
+151;Zhejiang University;;4-6;0;
+201;Autonomous University of Barcelona;;2-4;0;
+201;Autonomous University of Madrid;;2-4;0;
+201;Beijing Normal University;;7-12;15.8;
+201;Charles University in Prague;;1;9.1;
+201;City University of Hong Kong;;3-4;0;
+201;Claude Bernard University Lyon 1;;9-14;10.5;
+201;Colorado State University;;78-104;0;
+201;Dalhousie University;;8-16;0;
+201;Dartmouth College;;78-104;18.2;
+201;Delft University of Technology;;9-10;11.8;
+201;Durham University;;21-29;0;
+201;Ecole Normale Superieure - Lyon;;9-14;0;
+201;Florida State University;;78-104;0;
+201;Harbin Institute of Technology;;7-12;0;
+201;Huazhong University of Science and Technology;;7-12;0;
+201;Karlsruhe Institute of Technology;;14-22;0;
+201;Kobe University;;9-10;14.9;
+201;Korea Advanced Institute of Science and Technology;;2-5;0;
+201;Korea University;;2-5;0;
+201;Laval University;;8-16;0;
+201;Louisiana State University - Baton Rouge;;78-104;0;
+201;Maastricht University;;9-10;0;
+201;Macquarie University;;9;0;
+201;Medical University of Vienna;;2-3;9.1;
+201;Nanjing University;;7-12;0;
+201;National Autonomous University of Mexico;;1;12.9;
+201;National Cheng Kung University;;2-3;0;
+201;National Tsing Hua University;;2-3;12.9;
+201;Newcastle University;;21-29;0;
+201;Northeastern University;;78-104;0;
+201;Norwegian University of Science And Technology;;2-3;13.9;
+201;Paul Sabatier University - Toulouse 3;;9-14;0;
+201;Polytechnic Institute of Milan;;7-8;7.4;
+201;Queen Mary; University of London;;21-29;18.2;
+201;Queen's University;;8-16;0;
+201;Rensselaer Polytechnic Institute;;78-104;12.9;
+201;Royal Institute of Technology;;6-8;0;
+201;RWTH Aachen University;;14-22;0;
+201;Simon Fraser University;;8-16;0;
+201;State University of New York at Buffalo;;78-104;0;
+201;Stony Brook University;;78-104;0;
+201;Sun Yat-sen University;;7-12;0;
+201;Sungkyunkwan University;;2-5;0;
+201;Swedish University of Agricultural Sciences;;6-8;0;
+201;The George Washington University;;78-104;11.8;
+201;The Hong Kong University of Science and Technology;;3-4;0;
+201;The University of Alabama at Birmingham;;78-104;0;
+201;The University of Auckland;;1-2;13.9;
+201;The University of Dundee;;21-29;0;
+201;The University of New Mexico - Albuquerque;;78-104;0;
+201;The University of Texas Health Science Center at Houston;;78-104;0;
+201;TU Dresden;;14-22;0;
+201;Umea University;;6-8;0;
+201;University College Dublin;;2;0;
+201;University of Aberdeen;;21-29;0;
+201;University of Bergen;;2-3;0;
+201;University of Bochum;;14-22;0;
+201;University of Bordeaux;;9-14;0;
+201;University of Cape Town;;1-2;19;
+201;University of Cincinnati;;78-104;0;
+201;University of Erlangen-Nuremberg;;14-22;0;
+201;University of Exeter;;21-29;0;
+201;University of Florence;;7-8;0;
+201;University of Guelph;;8-16;0;
+201;University of Houston;;78-104;0;
+201;University of Innsbruck;;2-3;0;
+201;University of Kansas;;78-104;11.8;
+201;University of Kentucky;;78-104;10.5;
+201;University of Leicester;;21-29;0;
+201;University of Leipzig;;14-22;11.8;
+201;University of Liege;;5;7.4;
+201;University of Lisbon;;1;0;
+201;University of Lorraine;;9-14;11.8;
+201;University of Mainz;;14-22;0;
+201;University of Marburg;;14-22;10.5;
+201;University of Maryland, Baltimore; Baltimore;;78-104;0;
+201;University of Missouri - Columbia;;78-104;9.1;
+201;University of Montpellier 2;;9-14;10.5;
+201;University of Nebraska - Lincoln;;78-104;17.5;
+201;University of Notre Dame;;78-104;12.9;
+201;University of Oregon;;78-104;9.1;
+201;University of Otago;;1-2;0;
+201;University of Ottawa;;8-16;0;
+201;University of South Carolina - Columbia;;78-104;0;
+201;University of South Florida;;78-104;0;
+201;University of St Andrews;;21-29;10.5;
+201;University of Stuttgart;;14-22;19;
+201;University of Tennessee - Knoxville;;78-104;10.5;
+201;University of the Witwatersrand;;1-2;19;
+201;University of Tsukuba;;9-10;0;
+201;University of Valencia;;2-4;0;
+201;University of Victoria;;8-16;0;
+201;University of Waterloo;;8-16;0;
+201;University of York;;21-29;0;
+201;Virginia Polytechnic Institute and State University;;78-104;11.8;
+201;Washington State University;;78-104;0;
+201;Western University (The University of Western Ontario);;8-16;0;
+201;Xian Jiao Tong University;;7-12;0;
+201;Yeshiva University;;78-104;0;
+201;Yonsei University;;2-5;0;
+301;Beihang University;;13-25;0;
+301;Brandeis University;;105-125;19.7;
+301;Brigham Young University;;105-125;9.1;
+301;Central South University;;13-25;0;
+301;Chalmers University of Technology;;9-10;0;
+301;Chiba University;;11-14;0;
+301;China Agricultural University;;13-25;0;
+301;City University of New York City College;;105-125;29.3;
+301;Complutense University of Madrid;;5-8;19.7;
+301;Curtin University;;10-18;0;
+301;Dalian University of Technology;;13-25;0;
+301;Drexel University;;105-125;0;
+301;Ecole Polytechnique;;15-17;17.5;
+301;Eindhoven University of Technology;;11-12;0;
+301;Eotvos Lorand University;;1;13.9;
+301;ESPCI ParisTech;;15-17;7.4;
+301;Federal University of Minas Gerais;;2-5;0;
+301;Federal University of Rio de Janeiro;;2-5;0;
+301;Flinders University;;10-18;15.8;
+301;Georgetown University;;105-125;0;
+301;Griffith University;;10-18;0;
+301;Hannover Medical School;;23-30;0;
+301;Hanyang University;;6-8;0;
+301;Hiroshima University;;11-14;0;
+301;Indian Institute of Science;;1;0;
+301;Indiana University-Purdue University at Indianapolis;;105-125;0;
+301;Jagiellonian University;;1-2;10.5;
+301;James Cook University;;10-18;0;
+301;Jilin University;;13-25;0;
+301;Keio University;;11-14;0;
+301;Kyung Hee University;;6-8;0;
+301;Lancaster University;;30-33;0;
+301;Lanzhou University;;13-25;0;
+301;Linköping University;;9-10;0;
+301;London School of Hygiene & Tropical Medicine;;30-33;7.4;
+301;Nankai University;;13-25;0;
+301;National and Kapodistrian University of Athens;;1;0;
+301;National Chiao Tung University;;4;0;
+301;Pohang University of Science and Technology;;6-8;0;
+301;Polytechnic University of Valencia;;5-8;0;
+301;Queen's University Belfast;;30-33;18.2;
+301;Saint Petersburg State University;;2;27.3;
+301;San Diego State University;;105-125;0;
+301;Scuola Normale Superiore - Pisa;;9-12;0;
+301;Shandong University;;13-25;0;
+301;Sichuan University;;13-25;0;
+301;South China University of Technology;;13-25;0;
+301;Southeast University;;13-25;0;
+301;SUNY at Albany;;105-125;0;
+301;Swinburne University of Technology;;10-18;0;
+301;Technical University of Berlin;;23-30;16.6;
+301;Temple University;;105-125;0;
+301;The Hong Kong Polytechnic University;;5;0;
+301;The University of Montana - Missoula;;105-125;5.3;
+301;The University of Reading;;30-33;0;
+301;The University of Texas at Dallas;;105-125;0;
+301;The University of Texas Health Science Center at San Antonio;;105-125;0;
+301;Thomas Jefferson University;;105-125;0;
+301;Tokyo Medical and Dental University;;11-14;0;
+301;Tongji University;;13-25;0;
+301;Tulane University;;105-125;0;
+301;UNESP;;2-5;0;
+301;University of Antwerp;;6-7;0;
+301;University of Belgrade;;1;0;
+301;University of Campinas;;2-5;0;
+301;University of Central Florida;;105-125;0;
+301;University of Colorado at Denver;;105-125;0;
+301;University of Connecticut;;105-125;11.8;
+301;University of Duesseldorf;;23-30;11.8;
+301;University of Duisburg-Essen;;23-30;0;
+301;University of Giessen;;23-30;0;
+301;University of Granada;;5-8;0;
+301;University of Halle-Wittenberg;;23-30;0;
+301;University of Konstanz;;23-30;0;
+301;University of Malaya;;1;0;
+301;University of Manitoba;;17-18;0;
+301;University of Milan - Bicocca;;9-12;0;
+301;University of Naples Federico II;;9-12;0;
+301;University of Newcastle;;10-18;0;
+301;University of Oulu;;2-3;11.8;
+301;Université Paris-Dauphine;;15-17;15.8;
+301;University of Pompeu Fabra;;5-8;0;
+301;University of Porto;;2;0;
+301;University of Rhode Island;;105-125;0;
+301;University of Roma - Tor Vergata;;9-12;0;
+301;University of Saskatchewan;;17-18;9.1;
+301;University of Southern Denmark;;4;0;
+301;University of Tasmania;;10-18;0;
+301;University of Technology; Sydney;;10-18;0;
+301;University of Tehran;;1;12.9;
+301;University of Turku;;2-3;0;
+301;University of Twente;;11-12;0;
+301;University of Ulm;;23-30;0;
+301;University of Vermont;;105-125;13.9;
+301;University of Warsaw;;1-2;15.8;
+301;University of Wollongong;;10-18;0;
+301;Vrije University Brussel;;6-7;13.9;
+301;Wake Forest University;;105-125;0;
+301;Wayne State University;;105-125;0;
+301;Xiamen University;;13-25;0;
+501;Aalborg University;;5;0;
+501;Aalto University;;4-5;0;
+501;Aristotle University of Thessaloniki;;2;0;
+501;Auburn University;;126-146;0;
+501;Bar-Ilan University;;5-6;0;
+501;Ben-Gurion University of the Negev;;5-6;0;
+501;Bielefeld University;;31-39;0;
+501;Boston College;;126-146;0;
+501;Brunel University;;34-38;0;
+501;Cairo University;;1;19.7;
+501;Capital University of Medical Sciences;;26-32;0;
+501;Carleton University;;19-21;0;
+501;Catholic University of Chile;;1-2;0;
+501;Catholic University of Korea;;9-10;0;
+501;Catholic University of the Sacred Heart;;13-21;0;
+501;Chang Gung University;;5-7;0;
+501;Clemson University;;126-146;0;
+501;Deakin University;;19;0;
+501;East China University of Science and Technology;;26-32;0;
+501;Ewha Womans University;;9-10;0;
+501;Federal University of Rio Grande do Sul;;6;0;
+501;Istanbul University;;1;13.9;
+501;Kanazawa University;;15-19;0;
+501;Kansas State University;;126-146;0;
+501;Kent State University;;126-146;0;
+501;King Abdullah University of Science and Technology;;3-4;0;
+501;King Fahd University of Petroleum & Minerals;;3-4;0;
+501;Medical University of Graz;;4-6;0;
+501;Medical University of South Carolina;;126-146;0;
+501;MINES ParisTech;;18-21;13.9;
+501;Nanjing Medical University;;26-32;0;
+501;National Sun Yat-sen University;;5-7;0;
+501;National Yang Ming University;;5-7;0;
+501;Okayama University;;15-19;0;
+501;Oklahoma State University;;126-146;0;
+501;Osaka City University;;15-19;15.8;
+501;Peking Union Medical College;;26-32;0;
+501;Polytechnic University of Catalonia;;9-12;0;
+501;Rush University;;126-146;0;
+501;Saint Louis University;;126-146;0;
+501;Soochow University;;26-32;0;
+501;State University of New York Health Science Center at Brooklyn;;126-146;0;
+501;Stellenbosch University;;3-4;0;
+501;Stockholm School of Economics;;11;0;
+501;Syracuse University;;126-146;0;
+501;Technical University Darmstadt;;31-39;14.9;
+501;Technical University of Braunschweig;;31-39;12.9;
+501;The Open University;;34-38;0;
+501;The University of Texas Medical Branch at Galveston;;126-146;0;
+501;Tianjin University;;26-32;0;
+501;Tilburg University;;13;0;
+501;Tokyo University of Science;;15-19;0;
+501;University College Cork;;3;0;
+501;University of Alaska - Fairbanks;;126-146;0;
+501;University of Arkansas at Fayetteville;;126-146;0;
+501;University of Arkansas at Little Rock;;126-146;0;
+501;University of Auvergne;;18-21;0;
+501;University of Bath;;34-38;0;
+501;University of Bayreuth;;31-39;0;
+501;University of Bremen;;31-39;0;
+501;University of Cagliari;;13-21;0;
+501;University of Canterbury;;3-4;0;
+501;University of Chile;;1-2;7.4;
+501;University of Coimbra;;3;0;
+501;University of Eastern Finland;;4-5;0;
+501;University of Essex;;34-38;19.7;
+501;University of Ferrara;;13-21;0;
+501;University of Genova;;13-21;0;
+501;University of Graz;;4-6;7.4;
+501;University of Hannover;;31-39;0;
+501;University of Jena;;31-39;0;
+501;University of Kwazulu-Natal;;3-4;0;
+501;University of Ljubljana;;1;0;
+501;University of Maryland, Baltimore County; Baltimore County;;126-146;0;
+501;University of New Hampshire - Durham;;126-146;0;
+501;University of Nice Sophia Antipolis;;18-21;0;
+501;University of Oklahoma - Norman;;126-146;0;
+501;University of Palermo;;13-21;0;
+501;University of Parma;;13-21;0;
+501;University of Pavia;;13-21;0;
+501;University of Perugia;;13-21;0;
+501;University of Quebec;;19-21;0;
+501;University of Regensburg;;31-39;0;
+501;University of Rennes 1;;18-21;0;
+501;University of Rostock;;31-39;0;
+501;University of Santiago Compostela;;9-12;0;
+501;University of Science; Malaysia;;2;0;
+501;University of Surrey;;34-38;0;
+501;University of Szeged;;2;0;
+501;University of Tennessee Health Science Center;;126-146;0;
+501;University of the Basque Country;;9-12;0;
+501;University of Trieste;;13-21;0;
+501;University of Wyoming;;126-146;0;
+501;University of Zaragoza;;9-12;0;
+501;Utah State University;;126-146;13.9;
+501;Victoria University of Wellington;;3-4;11.8;
+501;Vienna University of Technology;;4-6;0;
+501;Waseda University;;15-19;0;
+501;Wuhan University;;26-32;0;
+501;York University;;19-21

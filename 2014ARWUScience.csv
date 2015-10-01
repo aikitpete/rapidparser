@@ -1,0 +1,201 @@
+rank;title
+1;University of California-Berkeley
+2;Harvard University
+3;Princeton University
+4;Stanford University
+5;California Institute of Technology
+6;Massachusetts Institute of Technology (MIT)
+7;University of Cambridge
+8;Swiss Federal Institute of Technology Zurich
+9;University of California, Los Angeles
+10;University of Colorado at Boulder
+11;The University of Tokyo
+12;Columbia University
+13;University of Oxford
+14;Pierre and Marie Curie University - Paris 6
+15;University of Chicago
+16;Cornell University
+17;Kyoto University
+18;University of California, Santa Barbara
+19;Yale University
+20;University of Paris Sud (Paris 11)
+21;University of Michigan-Ann Arbor
+22;The Johns Hopkins University
+23;Northwestern University
+24;University of Wisconsin - Madison
+25;University of Washington
+26;University of California, San Diego
+27;The University of Manchester
+27;University of Pennsylvania
+29;The Imperial College of Science, Technology and Medicine
+30;The University of Texas at Austin
+31;University of California, Irvine
+32;University of Geneva
+33;University of Maryland, College Park
+34;University of Toronto
+35;The University of Edinburgh
+36;University of Arizona
+36;University of Minnesota, Twin Cities
+38;University of Illinois at Urbana-Champaign
+39;University of Munich
+40;Georgia Institute of Technology
+40;Utrecht University
+42;Rice University
+43;Heidelberg University
+44;Pennsylvania State University - University Park
+45;Texas A & M University
+46;University of Copenhagen
+47;Duke University
+47;The Hebrew University of Jerusalem
+49;Technion-Israel Institute of Technology
+50;Peking University
+51-75;Boston University
+51-75;Durham University
+51-75;Ecole Normale Superieure - Paris
+51-75;Joseph Fourier University (Grenoble 1)
+51-75;King Abdulaziz University
+51-75;Moscow State University
+51-75;Nagoya University
+51-75;Osaka University
+51-75;Purdue University - West Lafayette
+51-75;Swiss Federal Institute of Technology Lausanne
+51-75;Technical University Munich
+51-75;The Australian National University
+51-75;The Ohio State University - Columbus
+51-75;Tohoku University
+51-75;University College London
+51-75;University of Bonn
+51-75;University of Bristol
+51-75;University of British Columbia
+51-75;University of California, Davis
+51-75;University of California, Santa Cruz
+51-75;University of Massachusetts Amherst
+51-75;University of Science and Technology of China
+51-75;University of Strasbourg
+51-75;University Paris Diderot - Paris 7
+51-75;Weizmann Institute of Science
+76-100;Aarhus University
+76-100;Aix Marseille University
+76-100;Autonomous University of Madrid
+76-100;Brown University
+76-100;Carnegie Mellon University
+76-100;Karlsruhe Institute of Technology (KIT)
+76-100;New York University
+76-100;Rutgers, The State University of New Jersey - New Brunswick
+76-100;RWTH Aachen University
+76-100;Seoul National University
+76-100;Tokyo Institute of Technology
+76-100;Tsinghua University
+76-100;University of Bern
+76-100;University of Bologna
+76-100;University of California, Riverside
+76-100;University of Florida
+76-100;University of Hamburg
+76-100;University of Hawaii at Manoa
+76-100;University of Helsinki
+76-100;University of Muenster
+76-100;University of Southampton
+76-100;University of Southern California
+76-100;University of Sussex
+76-100;University of Vienna
+76-100;University of Wuerzburg
+101-150;Arizona State University
+101-150;Ecole Normale Superieure - Lyon
+101-150;Fudan University
+101-150;Hokkaido University
+101-150;Iowa State University
+101-150;KU Leuven
+101-150;Kyushu University
+101-150;Leiden University
+101-150;McGill University
+101-150;Michigan State University
+101-150;Monash University
+101-150;Nanjing University
+101-150;Nanyang Technological University
+101-150;National Taiwan University
+101-150;National Tsing Hua University
+101-150;National University of Singapore
+101-150;Radboud University Nijmegen
+101-150;Shanghai Jiao Tong University
+101-150;Stockholm University
+101-150;Sun Yat-sen University
+101-150;Tel Aviv University
+101-150;The University of Glasgow
+101-150;The University of Melbourne
+101-150;University Libre Bruxelles
+101-150;University of Amsterdam
+101-150;University of Delaware
+101-150;University of Erlangen-Nuremberg
+101-150;University of Florence
+101-150;University of Frankfurt
+101-150;University of Goettingen
+101-150;University of Groningen
+101-150;University of Innsbruck
+101-150;University of Miami
+101-150;University of North Carolina at Chapel Hill
+101-150;University of Notre Dame
+101-150;University of Nottingham
+101-150;University of Padua
+101-150;University of Pisa
+101-150;University of Pittsburgh-Pittsburgh Campus
+101-150;University of Roma - La Sapienza
+101-150;University of Sao Paulo
+101-150;University of Stuttgart
+101-150;University of Sydney
+101-150;University of Tsukuba
+101-150;University of Victoria
+101-150;University of Virginia
+101-150;University of Warwick
+101-150;University of Zurich
+101-150;Uppsala University
+101-150;Zhejiang University
+151-200;Cardiff University
+151-200;City University of Hong Kong
+151-200;Claude Bernard University Lyon 1
+151-200;Colorado State University
+151-200;Ecole Polytechnique
+151-200;Florida State University
+151-200;Ghent University
+151-200;Indian Institute of Science
+151-200;Indiana University Bloomington
+151-200;Korea University
+151-200;Lanzhou University
+151-200;Lund University
+151-200;Macquarie University
+151-200;McMaster University
+151-200;National Autonomous University of Mexico
+151-200;Paul Sabatier University (Toulouse 3)
+151-200;Rensselaer Polytechnic Institute
+151-200;Scuola Normale Superiore - Pisa
+151-200;State University of New York at Buffalo
+151-200;Stony Brook University
+151-200;Technical University of Denmark
+151-200;The Chinese University of Hong Kong
+151-200;The University of Hong Kong
+151-200;The University of New Mexico - Albuquerque
+151-200;The University of New South Wales
+151-200;The University of Queensland
+151-200;The University of Reading
+151-200;The University of Western Australia
+151-200;University of Barcelona
+151-200;University of Basel
+151-200;University of Birmingham
+151-200;University of Exeter
+151-200;University of Freiburg
+151-200;University of Houston
+151-200;University of Iowa
+151-200;University of Leeds
+151-200;University of Leicester
+151-200;University of Mainz
+151-200;University of Ottawa
+151-200;University of Rochester
+151-200;University of Santiago Compostela
+151-200;University of St Andrews
+151-200;University of Tennessee - Knoxville
+151-200;University of Tuebingen
+151-200;University of Utah
+151-200;University of Valencia
+151-200;Vanderbilt University
+151-200;VU University Amsterdam
+151-200;Xiamen University
+151-200;Yonsei University;;

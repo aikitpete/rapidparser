@@ -1,0 +1,73 @@
+<!doctype html>
+<meta charset="UTF-8" />
+<title>deneme.com: Internet Üzerinden Deneme Sınavları</title>
+<link rel="stylesheet" href="//cdn.dot.ms/customers/domainpark/styles/style.css" />
+<div class="konteyner">
+  <header class="icerik-sol">
+    <h1><a href="http://www.deneme.com/">deneme.com</a></h1>
+    <p id="slogan">Internet Üzerinden Deneme Sınavları</p>
+  </header>
+  <section class="icerik-sag">
+    <header>
+      <h2>İletişim</h2>
+    </header>
+    <form method="post">
+      <p>
+        <label for="isim">Adınız Soyadınız: </label>
+        <input id="isim" name="isim" type="text" value="" required="required" />
+      </p>
+      <p>
+        <label for="eposta">E-Posta Adresiniz: </label>
+        <input id="eposta" name="eposta" type="email" value="" required="required" />
+      </p>
+      <p>
+        <label for="telefon">Telefon Numaranız: </label>
+        <input id="telefon" name="telefon" type="text" value="" />
+      </p>
+      <p>
+        <label for="konu">Konu: </label>
+        <select id="konu" name="konu"><option value="deneme.com - Görüş">Görüş</option><option value="deneme.com - Öneri">Öneri</option><option value="deneme.com - Satın Alma Teklifi">Satın Alma Teklifi</option></select>
+      </p>
+      <p>
+        <label for="mesaj">Mesajınız: </label>
+        <textarea id="mesaj" name="mesaj" required="required"></textarea>
+      </p>
+      <p class="ortala">
+        <button id="gonder" name="gonder" value="Gönder">Gönder</button>
+      </p>
+    </form>
+  </section>
+  <article class="icerik-sol">
+    <header>
+      <h2>Deneme Sınavları</h2>
+    </header>
+    <p>
+      Gerçek sınavın provası olarak kabul edilen ve gerçek sınava katılacak olanların performansını önceden ölçümledikleri deneme sınavları, kişinin eksik kaldığı konuları ve/veya daha fazla dikkat etmesi gerektiği soru çeşitlerini ortaya çıkartır.
+    </p>
+    <p>
+      Deneme sınavında zamanın nasıl kullanılması gerektiği, sınavın hangi bölümünden başlanmasının daha iyi olacağı gibi birçok yöntem denenerek kişi için en uygun taktik belirlenmelidir.
+    </p>
+  </article>
+  <article class="icerik-sol">
+    <header>
+      <h2>Sınav Çeşitleri</h2>
+    </header>
+    <p>
+      Katılımcı sayısına göre sıralamak gerekirse; LYS (Lisans Yerleştirme Sınavı) ile başlayan sınav listesi, KPSS (Kamu Personeli Seçme Sınavı), ALES (Akademik Personel ve Lisansüstü Eğitimi Giriş Sınavı), TUS (Tıpta Uzmanlık Eğitimi Giriş Sınavı), SBS (Seviye Belirleme Sınavı), AÖK (Açık Öğretim Kurumları Sınavları) ve MTSAS (Motorlu Taşıt Sürücü Adayı Sınavı) ile sürer.
+    </p>
+  </article>
+  <br class="temizle" />
+</div>
+<footer>
+  <div class="konteyner">
+    <section id="copyright">
+      © 1999 - 2015 <a href="http://www.deneme.com/">deneme.com</a><br />
+      © 2015 <a href="http://www.elmasgunes.net/">elmasgunes.net</a>
+    </section>
+    <br class="temizle" />
+    <section id="not">
+      Bu site yalnızca HTML5 destekli tarayıcı ile görüntülenebilmektedir. Eğer HTML5 destekli bir tarayıcıya sahip değilseniz,<br />
+      lütfen <a href="https://www.google.com/chrome">Google Chrome</a>, <a href="http://www.mozilla.org/firefox">Firefox</a> ya da <a href="http://www.apple.com/safari/">Safari</a> tarayıcısının son versiyonunu deneyiniz.
+    </section>
+  </div>
+</footer>

@@ -1,0 +1,51 @@
+<process expanded="true">
+    <operator activated="true" class="nosql:mongodb_document_reader" compatibility="6.1.001" expanded="true"
+              name="Read MongoDB">
+        <parameter key="mongodb_instance" value="Local MongoDB"/>
+        <parameter key="collection" id="COLLECTION_NAME" value=""/>
+        <parameter key="sort_documents" value="false"/>
+        <parameter key="limit_results" value="false"/>
+        <parameter key="skip" value="0"/>
+    </operator>
+    <operator activated="true" class="text:json_to_data" compatibility="6.1.000" expanded="true"
+              name="JSON To Data">
+        <parameter key="ignore_arrays" value="false"/>
+        <parameter key="limit_attributes" value="false"/>
+        <parameter key="skip_invalid_documents" value="false"/>
+    </operator>
+    <operator activated="true" class="rename" compatibility="6.2.000" expanded="true" name="Rename"
+              >
+        <parameter key="old_name" id="SCORE_OLD" value=""/>
+        <parameter key="new_name" id="SCORE_NEW" value=""/>
+        <list id="ADDITIONAL" key="rename_additional_attributes">
+            <parameter key="rank" value="rank_statistics"/>
+        </list>
+    </operator>
+    <operator activated="true" class="select_attributes" compatibility="6.2.000" expanded="true"
+              name="Select Attributes">
+        <parameter key="attribute_filter_type" value="subset"/>
+        <parameter key="attribute" value=""/>
+        <parameter key="attributes" id="ATTRIBUTES" value=""/>
+        <parameter key="use_except_expression" value="false"/>
+        <parameter key="value_type" value="attribute_value"/>
+        <parameter key="use_value_type_exception" value="false"/>
+        <parameter key="except_value_type" value="time"/>
+        <parameter key="block_type" value="attribute_block"/>
+        <parameter key="use_block_type_exception" value="false"/>
+        <parameter key="except_block_type" value="value_matrix_row_start"/>
+        <parameter key="invert_selection" value="false"/>
+        <parameter key="include_special_attributes" value="false"/>
+    </operator>
+    <operator id="" activated="true" class="write_csv" compatibility="6.2.000" expanded="true" name="Write CSV"
+              >
+        <parameter key="csv_file" id="FILENAME" value=""/>
+        <parameter key="column_separator" value=";"/>
+        <parameter key="write_attribute_names" value="true"/>
+        <parameter key="quote_nominal_values" value="true"/>
+        <parameter key="format_date_attributes" value="true"/>
+        <parameter key="append_to_file" value="false"/>
+        <parameter key="encoding" value="SYSTEM"/>
+    </operator>
+    <portSpacing port="source_input 1" spacing="0"/>
+    <portSpacing port="sink_result 1" spacing="0"/>
+</process>

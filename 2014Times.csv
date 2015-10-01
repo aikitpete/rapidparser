@@ -1,0 +1,202 @@
+rank_times;title;country;score_times
+1;California Institute of Technology;United States;94.3
+2;Harvard University;United States;93.3
+3;University of Oxford;United Kingdom;93.2
+4;Stanford University;United States;92.9
+5;University of Cambridge;United Kingdom;92.0
+6;Massachusetts Institute of Technology (MIT);United States;91.9
+7;Princeton University;United States;90.9
+8;University of California, Berkeley (UCB);United States;89.5
+9;Imperial College London;United Kingdom;87.5
+9;Yale University;United States;87.5
+11;University of Chicago;United States;87.1
+12;University of California, Los Angeles (UCLA);United States;85.5
+13;ETH Zürich – Swiss Federal Institute of Technology Zürich;Switzerland;84.6
+14;Columbia University;United States;84.4
+15;Johns Hopkins University;United States;83.0
+16;University of Pennsylvania;United States;81.0
+17;University of Michigan;United States;80.9
+18;Duke University;United States;79.9
+19;Cornell University;United States;79.4
+20;University of Toronto;Canada;79.3
+21;Northwestern University;United States;79.2
+22;University College London;United Kingdom;78.7
+23;The University of Tokyo;Japan;76.1
+24;Carnegie Mellon University;United States;74.3
+25;National University of Singapore (NUS);Singapore;73.3
+26;University of Washington;United States;73.2
+27;Georgia Institute of Technology;United States;72.8
+28;University of Texas at Austin;United States;72.3
+29;Ludwig-Maximilians-Universität München;Germany;71.9
+29;University of Illinois at Urbana-Champaign;United States;71.9
+29;University of Wisconsin-Madison;United States;71.9
+32;University of British Columbia;Canada;71.8
+33;The University of Melbourne;Australia;71.2
+34;EPFL (Ecole Polytechnique Fédérale de Lausanne);Switzerland;70.9
+34;London School of Economics and Political Science (LSE);United Kingdom;70.9
+36;University of Edinburgh;United Kingdom;70.4
+37;University of California, Santa Barbara;United States;70.0
+38;New York University (NYU);United States;69.9
+39;McGill University;Canada;69.6
+40;King's College London (KCL);United Kingdom;69.4
+41;University of California, San Diego (UCSD);United States;68.6
+42;Washington University in St Louis;United States;67.8
+43;The University of Hong Kong;Hong Kong;67.5
+44;Karolinska Institute;Sweden;66.8
+45;Australian National University;Australia;66.5
+46;University of Minnesota;United States;65.9
+46;University of North Carolina at Chapel Hill;United States;65.9
+48;Peking University;China;65.2
+49;Tsinghua University;China;65.1
+50;Seoul National University;Republic of Korea;64.8
+51;Hong Kong University of Science and Technology;Hong Kong;64.7
+52;Korea Advanced Institute of Science and Technology;Republic of Korea;64.5
+52;University of Manchester;United Kingdom;64.5
+54;Brown University;United States;64.1
+55;KU Leuven;Belgium;63.7
+55;University of California, Davis;United States;63.7
+57;Boston University;United States;63.6
+58;Pennsylvania State University;United States;62.9
+59;Kyoto University;Japan;62.8
+60;The University of Sydney;Australia;62.7
+61;Ecole Polytechnique;France;62.2
+61;Nanyang Technological University, Singapore (NTU);Singapore;62.2
+63;Scuola Normale Superiore di Pisa;Italy;61.9
+64;Leiden University;Netherlands;61.3
+65;The University of Queensland;Australia;61.2
+66;Pohang University of Science and Technology;Republic of Korea;61.1
+67;Georg-August-Universität Göttingen;Germany;61.0
+68;Ohio State University;United States;60.7
+69;Rice University;United States;59.8
+70;Universität Heidelberg;Germany;59.6
+71;Delft University of Technology;Netherlands;59.2
+72;Erasmus University Rotterdam;Netherlands;59.1
+73;Wageningen University and Research Center;Netherlands;59.0
+74;University of Bristol;United Kingdom;58.9
+75;Universität Basel;Switzerland;58.4
+75;University of Southern California;United States;58.4
+77;University of Amsterdam;Netherlands;58.2
+78;École Normale Supérieure;France;58.1
+79;Utrecht University;Netherlands;58.0
+80;Humboldt-Universität zu Berlin;Germany;57.9
+81;Freie Universität Berlin;Germany;57.6
+82;Michigan State University;United States;57.3
+83;Durham University;United Kingdom;56.9
+83;Monash University;Australia;56.9
+85;Middle East Technical University;Turkey;56.6
+86;University of Arizona;United States;56.5
+86;University of Notre Dame;United States;56.5
+88;Tufts University;United States;56.4
+88;University of California, Irvine;United States;56.4
+90;Ghent University;Belgium;56.2
+91;University of Massachusetts;United States;56.1
+91;University of Pittsburgh;United States;56.1
+93;Emory University;United States;55.5
+94;McMaster University;Canada;55.3
+94;University of Glasgow;United Kingdom;55.3
+96;Vanderbilt University;United States;55.2
+97;University of Colorado Boulder;United States;55.1
+98;Stockholm University;Sweden;54.6
+98;Technische Universität München;Germany;54.6
+98;Uppsala University;Sweden;54.6
+101;Maastricht University;Netherlands;54.3
+102;Purdue University;United States;54.0
+103;Université Pierre et Marie Curie;France;53.9
+103;University of Helsinki;Finland;53.9
+103;The University of Warwick;United Kingdom;53.9
+103;University of Zürich;Switzerland;53.9
+107;Queen Mary University of London;United Kingdom;53.8
+107;University of Geneva;Switzerland;53.8
+109;University of California, Santa Cruz;United States;53.7
+109;The University of New South Wales;Australia;53.7
+111;University of St Andrews;United Kingdom;53.6
+111;University of Sussex;United Kingdom;53.6
+113;Eberhard Karls Universität Tübingen;Germany;53.4
+113;University of Montreal;Canada;53.4
+113;University of York;United Kingdom;53.4
+116;Case Western Reserve University;United States;53.2
+117;University of Groningen;Netherlands;53.1
+118;Royal Holloway; University of London;United Kingdom;53.0
+119;Lund University;Sweden;52.9
+120;Université Paris-Sud;France;52.8
+121;Technical University of Denmark;Denmark;52.7
+121;University of Rochester;United States;52.7
+121;University of Sheffield;United Kingdom;52.7
+124;University of Alberta;Canada;52.6
+124;University of Cape Town;South Africa;52.6
+126;Boston College;United States;52.5
+126;KTH Royal Institute of Technology;Sweden;52.5
+126;University of Florida;United States;52.5
+129;The Chinese University of Hong Kong;Hong Kong;52.4
+130;University of Virginia;United States;52.1
+131;Lancaster University;United Kingdom;52.0
+132;University of Bern;Switzerland;51.9
+132;University of Maryland; College Park;United States;51.9
+132;University of Southampton;United Kingdom;51.9
+135;Technische Universität Dresden;Germany;51.6
+136;Université de Lausanne;Switzerland;51.4
+136;VU University Amsterdam;Netherlands;51.4
+138;Trinity College Dublin;Republic of Ireland;51.2
+139;Bogazici University;Turkey;51.1
+140;Radboud University;Netherlands;51.0
+141;Colorado School of Mines;United States;50.9
+141;Texas A&M University;United States;50.9
+141;Tokyo Institute of Technology;Japan;50.9
+144;Eindhoven University of Technology;Netherlands;50.5
+144;Rutgers; The State University of New Jersey;United States;50.5
+146;University of Leeds;United Kingdom;50.4
+147;Brandeis University;United States;50.3
+148;Sungkyunkwan University;Republic of Korea;50.2
+148;University of Birmingham;United Kingdom;50.2
+150;Indiana University;United States;50.1
+150;University of California; Riverside;United States;50.1
+152;Dartmouth College;United States;50.0
+153;Aarhus University;Denmark;49.9
+154;University of Exeter;United Kingdom;49.7
+155;National Taiwan University (NTU);Taiwan;49.3
+156;RWTH Aachen University;Germany;49.2
+157;Osaka University;Japan;49.1
+157;University of Liverpool;United Kingdom;49.1
+157;University of Western Australia;Australia;49.1
+160;École Normale Supérieure de Lyon;France;49.0
+160;University of Copenhagen;Denmark;49.0
+162;University of Utah;United States;48.6
+163;Albert-Ludwigs-Universität Freiburg;Germany;48.3
+164;University of Adelaide;Australia;48.2
+165;Istanbul Technical University;Turkey;48.1
+165;Karlsruhe Institute of Technology;Germany;48.1
+165;Pompeu Fabra University - Barcelona;Spain;48.1
+165;Tohoku University;Japan;48.1
+169;University of Miami;United States;48.0
+170;University of Antwerp;Belgium;47.9
+171;Université Catholique de Louvain;Belgium;47.8
+171;University of Nottingham;United Kingdom;47.8
+173;Georgetown University;United States;47.7
+173;University of Victoria;Canada;47.7
+175;University of Auckland;New Zealand;47.5
+175;University of Iowa;United States;47.5
+177;Syracuse University;United States;47.3
+178;Université Joseph Fourier; Grenoble;France;47.1
+178;University of Aberdeen;United Kingdom;47.1
+180;Université Paris Diderot - Paris 7;France;47.0
+180;University of Delaware;United States;47.0
+182;Arizona State University;United States;46.9
+182;Sabanci University;Turkey;46.9
+182;University of Vienna;Austria;46.9
+185;Northeastern University;United States;46.8
+186;University of Oslo;Norway;46.7
+186;Yeshiva University;United States;46.7
+188;Stony Brook University;United States;46.6
+188;Tel Aviv University;Israel;46.6
+188;University of Ottawa;Canada;46.6
+191;University at Buffalo;United States;46.5
+192;City University of Hong Kong;Hong Kong;46.3
+193;Fudan University;China;46.2
+193;Iowa State University;United States;46.2
+195;Universität Bonn;Germany;46.1
+196;Lomonosov Moscow State University;Russian Federation;46.0
+196;St George's; University of London;United Kingdom;46.0
+198;University of East Anglia;United Kingdom;45.9
+199;University of Leicester;United Kingdom;45.7
+200;Florida Institute of Technology;United States;45.6
+200;George Washington University;United States;45.6
